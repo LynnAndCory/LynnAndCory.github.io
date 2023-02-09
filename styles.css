@@ -1,3 +1,7 @@
-div {
-    color: blue;
+body {
+    font-family: Roboto, Arial;
+}
+
+.title {
+    font-weight: bold;
 }
