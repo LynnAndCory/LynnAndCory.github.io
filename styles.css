@@ -1,7 +1,23 @@
 body {
     font-family: Roboto, Arial;
+    margin: 0;
+    background-color: lightpink;
+}
+
+img {
+    max-height: 750px;
+    border-radius: 50px;
+    flex: ;
 }
 
 .title {
     font-weight: bold;
+    font-size: 36px;
+    text-align: center;
+}
+
+.image-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
 }
