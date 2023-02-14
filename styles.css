@@ -7,8 +7,9 @@ body {
 }
 
 .title {
+    font-family: Lobster, Roboto, Arial;
     font-weight: bold;
-    font-size: 36px;
+    font-size: 46px;
     text-align: center;
     margin-top: 25px;
     margin-bottom: 10px;
