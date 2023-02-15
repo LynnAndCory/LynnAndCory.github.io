@@ -57,3 +57,24 @@ img {
     z-index: 100;
     color: white;
 }
+
+.history-button {
+    font-family: Lobster, Roboto, Arial;
+    font-size: 24px;
+    background-color: rgb(255, 92, 92);
+    border-width: 1px;
+    border-color: black;
+    border-radius: 5px;
+    margin-top: 30px;
+    padding: 7px;
+    transition-duration: .15s;
+    cursor: pointer;
+}
+
+.history-button:hover {
+    opacity: .8;
+}
+
+.history-button:active {
+    background-color: pink;
+}
