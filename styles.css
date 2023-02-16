@@ -71,7 +71,7 @@ img {
     padding: 7px;
     transition-duration: .15s;
     cursor: pointer;
-    box-shadow: 3px 3px 10px rgb(130, 0, 0);
+    box-shadow: 3px 3px 10px rgb(165, 77, 77);
 }
 
 .history-button:hover {
