@@ -71,10 +71,11 @@ img {
     padding: 7px;
     transition-duration: .15s;
     cursor: pointer;
+    box-shadow: 3px 3px 10px rgb(130, 0, 0);
 }
 
 .history-button:hover {
-    opacity: .8;
+    opacity: .8;    
 }
 
 .history-button:active {
